@@ -1,0 +1,51 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Pytest
+.pytest_cache/
+.cache/
+
+# Streamlit
+.streamlit/
+
+# Local environment files
+.env
+.env.*
+
+# Windows metadata files
+*Zone.Identifier
+*.Zone.Identifier
+
+# Jupyter checkpoint folders
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Artifacts and temporary storage
+artifacts/
+*.sqlite
+
+# Ignore SSH keys
+git_finger
+git_finger.pub
