@@ -1,0 +1,23 @@
+InsightForge Sales Summary
+Records analyzed: 2,500
+Date range: 2022-01-01 to 2028-11-04
+Total sales: 1,383,220.00
+Average transaction sales: 553.29
+Average customer satisfaction: 3.03 / 5
+Top region by total sales: West (361,383.00)
+Top product by total sales: Widget A (375,235.00)
+Best region by satisfaction: East (3.07)
+Highest average-spend age segment: 18-25 (572.29)
+Sales by region:
+- West: 361,383.00
+- North: 353,025.00
+- South: 348,516.00
+- East: 320,296.00
+Sales by product:
+- Widget A: 375,235.00
+- Widget B: 346,062.00
+- Widget C: 335,069.00
+- Widget D: 326,854.00
+Average sales by gender:
+- Female: 558.96
+- Male: 547.56
